@@ -204,7 +204,7 @@ function Header() {
           </span>
 
           <a
-            href=" https://mamadoubbah.github.io/"
+            href="https://mamadoubbah.github.io/"
             style={{
               fontFamily: "'DM Sans', sans-serif",
               fontSize: "0.78rem",
